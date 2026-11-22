@@ -1,0 +1,15 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 2 · Should I test using 'forest' as the foreground color for this filter caption?",
+  "row": 2,
+  "record": {
+    "Text role": "Filter caption",
+    "Pair": "sage / paper",
+    "Ratio": 2.841,
+    "Target": 4.5,
+    "Result": "Below target",
+    "Try foreground": "forest"
+  },
+  "source_sha256": "1c782d4c88a987a4f259091b02cdf0af310cc6709e300026665675b92f6eab39",
+  "report_sha256": "9e3b031dd4be759d71d8e638c76df29a2444ddad31fb2c6ca66a461cf720f26b"
+}

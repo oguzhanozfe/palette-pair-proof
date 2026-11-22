@@ -2,6 +2,8 @@
 
 Audit named text and background pairs, then find passing alternatives in the same palette.
 
+**[Open the live demo](https://oguzhanozfe.github.io/palette-pair-proof/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Palette Pair Proof showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/palette-pair-proof) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)
