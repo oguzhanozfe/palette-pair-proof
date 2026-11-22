@@ -1,0 +1,77 @@
+{
+  "summary": "Pairs are evaluated before rounding. Suggested alternatives preserve the background and minimize the luminance change.",
+  "metrics": {
+    "Text roles": 5,
+    "Passing": 3,
+    "Below target": 2
+  },
+  "rows": [
+    {
+      "Text role": "Article body",
+      "Pair": "ink / paper",
+      "Ratio": 13.492,
+      "Target": 4.5,
+      "Result": "Pass",
+      "Try foreground": "—"
+    },
+    {
+      "Text role": "Filter caption",
+      "Pair": "sage / paper",
+      "Ratio": 2.841,
+      "Target": 4.5,
+      "Result": "Below target",
+      "Try foreground": "forest"
+    },
+    {
+      "Text role": "Action label",
+      "Pair": "paper / forest",
+      "Ratio": 7.098,
+      "Target": 4.5,
+      "Result": "Pass",
+      "Try foreground": "—"
+    },
+    {
+      "Text role": "Promo heading",
+      "Pair": "coral / paper",
+      "Ratio": 2.281,
+      "Target": 3,
+      "Result": "Below target",
+      "Try foreground": "forest"
+    },
+    {
+      "Text role": "Night mode body",
+      "Pair": "paper / night",
+      "Ratio": 14.613,
+      "Target": 4.5,
+      "Result": "Pass",
+      "Try foreground": "—"
+    }
+  ],
+  "swatches": [
+    {
+      "label": "Article body",
+      "foreground": "#202A2A",
+      "background": "#F8F5EA"
+    },
+    {
+      "label": "Filter caption",
+      "foreground": "#799B78",
+      "background": "#F8F5EA"
+    },
+    {
+      "label": "Action label",
+      "foreground": "#F8F5EA",
+      "background": "#305B46"
+    },
+    {
+      "label": "Promo heading",
+      "foreground": "#E68D76",
+      "background": "#F8F5EA"
+    },
+    {
+      "label": "Night mode body",
+      "foreground": "#F8F5EA",
+      "background": "#182424"
+    }
+  ]
+}

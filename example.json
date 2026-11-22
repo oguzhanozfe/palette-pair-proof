@@ -1,0 +1,38 @@
+{
+  "palette": {
+    "paper": "#F8F5EA",
+    "ink": "#202A2A",
+    "sage": "#799B78",
+    "forest": "#305B46",
+    "coral": "#E68D76",
+    "night": "#182424"
+  },
+  "pairs": [
+    {
+      "label": "Article body",
+      "foreground": "ink",
+      "background": "paper"
+    },
+    {
+      "label": "Filter caption",
+      "foreground": "sage",
+      "background": "paper"
+    },
+    {
+      "label": "Action label",
+      "foreground": "paper",
+      "background": "forest"
+    },
+    {
+      "label": "Promo heading",
+      "foreground": "coral",
+      "background": "paper",
+      "target": 3
+    },
+    {
+      "label": "Night mode body",
+      "foreground": "paper",
+      "background": "night"
+    }
+  ]
+}
